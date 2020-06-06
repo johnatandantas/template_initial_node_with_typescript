@@ -1,9 +1,12 @@
 # Initial template unsing Node.js and TypeScript
 
-This project is an initial template that I use to standardize my projects with node.js and Typescript.
+This is a template of an initial project that is used to start and standardize my node.js projects using Typescript and
+a <a href="https://github.com/airbnb/javascript">airbnb</a> code style guide.
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 ## :rocket: Technologies
@@ -17,6 +20,27 @@ This project was developed with the following technologies:
 - :heavy_check_mark:  [eslint](https://eslint.org/)
 - :heavy_check_mark:  [prettier](https://prettier.io/)
 - :heavy_check_mark:  [VS Code][vc] with [ESLint][vceslint]
+
+## :information_source: How To User
+
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+
+
+```bash
+# Clone this repository
+$ git clone https://github.com/johnatandantas/template_initial_node_with_typescript
+
+# Go into the repository
+$ cd react-rocketshoes
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
+```
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/johnatandantas/template_initial_node_with_typescript/blob/master/LICENSE) for more information.
 
 ---
 
