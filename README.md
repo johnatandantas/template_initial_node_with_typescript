@@ -4,7 +4,8 @@ This project is an initial template that I use to standardize my projects with n
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 ## :rocket: Technologies
@@ -37,7 +38,8 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
-
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/johnatandantas/template_initial_node_with_typescript/blob/master/LICENSE) for more information.
 ---
 
 Made with ♥ by Johnatan Dantas :wave: [Get in touch!](https://www.linkedin.com/in/johnatan-dantas/)
